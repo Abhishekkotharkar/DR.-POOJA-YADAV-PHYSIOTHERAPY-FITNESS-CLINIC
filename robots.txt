@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abhishekkotharkar.github.io/DR.-POOJA-YADAV-PHYSIOTHERAPY-FITNESS-CLINIC/sitemap.xml
